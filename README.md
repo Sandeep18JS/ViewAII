@@ -5,6 +5,9 @@ Install node modules - npm install
 
 To Run - npm run dev
 
+
+Note - If you can't render data ,use vpn and try again
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
